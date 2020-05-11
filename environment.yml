@@ -1,7 +1,7 @@
 name: binder-panosc
 channels:
 - conda-forge
-- onedata
+- onedata-devel
 dependencies:
 - matplotlib
 - pillow
