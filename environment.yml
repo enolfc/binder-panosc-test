@@ -5,3 +5,5 @@ dependencies:
 - matplotlib
 - pillow
 - pip
+- pip:
+  - h5glance
