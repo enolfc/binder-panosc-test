@@ -6,5 +6,6 @@ dependencies:
 - matplotlib
 - pillow
 - onedatafs-jupyter
+- pip
 - pip:
   - h5glance
