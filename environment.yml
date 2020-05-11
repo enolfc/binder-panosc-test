@@ -7,6 +7,4 @@ dependencies:
 - pillow
 - pip
 - onedatafs-jupyter
-- pip:
-  - h5glance
 
